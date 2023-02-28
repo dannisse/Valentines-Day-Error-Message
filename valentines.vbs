@@ -5,7 +5,7 @@ d=msgbox ("...", 0+0, "...")
 e=msgbox ("...im breaking up with you", 1+48, "cya loser")
 
 if e=vbok then
-f=msgbox ("...now you really got no bitches",5+0, "get rekt")
+  f=msgbox ("...now you really are alone on valentines day",5+0, "get rekt")
 else 
 g=msgbox ("...? oh no. you cant go back from that.", 5+0, "you cant escape")
 end if
@@ -26,8 +26,8 @@ u=msgbox ("...fine.", 5+0, " ")
 s=msgbox ("...will you, be my valentine?", 4+32, "wiriamu no baka")
 
 if s=vbyes then
-t=msgbox ("i lvove oyu", 0+0, "daisuki")
+t=msgbox ("i love you", 0+0, "daisuki")
 else 
-u=msgbox ("...we're done.", 0+0, "kuso yaro")
+  u=msgbox ("...we're done.", 0+0, "ruh roh")
 
 end if     
