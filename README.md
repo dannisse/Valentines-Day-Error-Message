@@ -30,7 +30,7 @@
 
 <!-- ABOUT THE PROJECT -->
 # About The Project
-This is a fun valentines day prank you can send to your loved ones, done in VBSript. It will pop up as an "error box" or "error message". I made this as an effort to try to learn more about VBScript. My boyfriend and I are long distance (he's in the Navy), and since we both have Computer Science degrees, I thought why not send this to him— he'll appreciate it, hopefully. Because how simple my script is, and how painfully obvious that it was made by a beginner in VBScript, feel free to edit it and utilize it as you wish. This only works on WindowsOS. More information below. 
+This is a fun valentines day prank you can send to your loved ones, done in VBSript. It will pop up as an "error box" or "error message". This VBScript is a lighthearted Valentine's Day prank that you can play on your loved ones. It's a simple way to add some fun to the occasion.
 
 ## Built With
 ![vbs-shield] <br>
