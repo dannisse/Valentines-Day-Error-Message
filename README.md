@@ -46,6 +46,26 @@ This is a fun valentines day prank you can send to your loved ones, done in VBSr
 
 *MAC USERS: If you do not have a WindowsOS, follow the instructions to download VirtualBox:* 
 https://www.youtube.com/watch?v=lEvM-No4eQo
+## Usage
+
+1. **Download the Script:** Click on the "Download ZIP" button on the project repository to download the VBScript file.
+
+2. **Execution:**
+   - Locate the downloaded VBScript file.
+   - Double-click on the script to execute it.
+   - Enjoy the surprise as the prank unfolds!
+
+## Disclaimer
+
+This script is intended purely for fun and entertainment purposes. Make sure to use it responsibly, keeping in mind the feelings and preferences of the recipient.
+
+## Author
+
+[Dannisse Arenas]
+
+## License
+
+This project is licensed under the [MIT LICENSE].
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
